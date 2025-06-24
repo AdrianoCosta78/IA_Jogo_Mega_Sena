@@ -1,6 +1,6 @@
 # 🎯 Cicinho - Inteligência Artificial para Análise da Mega-Sena
 
-**Cicinho** é uma aplicação interativa construída com Python e Streamlit que analisa os resultados da Mega-Sena. Ela oferece funcionalidades estatísticas, geração de jogos e previsão com rede neural, em homenagem a Cícero, pai do desenvolvedor, que adorava esse jogo.
+**Cicinho** é uma aplicação interativa construída com Python e Streamlit que analisa os resultados da Mega-Sena. Ela oferece funcionalidades estatísticas, geração de jogos e previsão com rede neural, em homenagem a Cícero, meu pai, que adorava esse jogo.
 
 ## 🧠 Funcionalidades do Projeto
 
